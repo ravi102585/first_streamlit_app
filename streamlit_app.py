@@ -1,8 +1,10 @@
 import streamlit
-import emoji
-streamlit.title('My Parents New Healthy Diner')
+streamlit.title('My MoM\'s New Healthy Diner')
 
-streamlit.header(emoji.emojize('python is : thumbs_up:')+' Breakfast Menu')
-streamlit.text('omega 3 & Blueberry Oatmeal')
-streamlit.text('kale, Spinach & Rocket Smoothie')
-streamlit.text('Hard-Boiled Free-Range Egg')
+streamlit.header(' Breakfast Favototes')
+streamlit.text('🍳 omega 3 & Blueberry Oatmeal')
+streamlit.text('🌽kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞 Avocado Toast')
+
+streamlit.header('🍌 🍍Build Your Own Fruit Smoothie🥝🍇')
